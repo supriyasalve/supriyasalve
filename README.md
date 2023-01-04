@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @supriyasalve
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning PySpark
-- 💞️ I’m looking to collaborate on Python, Spark, Sql..
+- 👀 I’m working as Data Engineer
+- 🌱 I’m currently working in PySpark, Python, SQL, Big data technologies
+- 💞️ I’m looking to collaborate on Python, Spark, Sql.
 
 <!---
 supriyasalve/supriyasalve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
